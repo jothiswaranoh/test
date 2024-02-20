@@ -1,0 +1,21 @@
+/* body{
+  background-color: red;
+}
+div{
+  padding: 10rem;
+  background-color: aqua;
+}
+p{
+  color: rebeccapurple;
+} */
+
+
+.test{
+  background-color: red;
+  width: 50%;
+  height: auto;
+  box-shadow: inset;
+}
+.color{
+  color: blue !important;
+}
