@@ -20,5 +20,5 @@
 
 
 
-![Screenshot](screenshots/1.png)
+![Screenshot](screenshot/1.png)
 
